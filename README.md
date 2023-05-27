@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justinpayad
-- 👀 I’m interested in learning web development as a side huste.
+- 👀 I’m interested in learning web development as a side hustle.
 - 🌱 I’m currently learning react and js.
 - 💞️ I’m looking to collaborate on producing web apps in the future.
 
