@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @justinpayad
-- 👀 I’m interested in learning web development as a side hustle.
-- 🌱 I’m currently learning react and js.
-- 💞️ I’m looking to collaborate on producing web apps in the future.
+future iOS developer (wink)
 
 <!---
 justinpayad/justinpayad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
